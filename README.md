@@ -27,9 +27,6 @@ pip install torch torchvision numpy opencv-python-headless pillow PySide6
 
 Execute a aplicação:
 
-bash
-
-Copy code
 python aplicacao_de_reconhecimento_de_imagem.py
 Clique no botão "SELECIONAR IMAGEM" para carregar uma imagem a ser processada.
 
